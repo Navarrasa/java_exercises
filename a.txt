@@ -1,0 +1,33 @@
+1. Criação de Produtos Crie 3 novos produtos com nomes e preços diferentes dos exemplos dados. Use a classe Produto e exiba as informações de cada um usando o método exibirInfo().​
+
+​
+
+ 2. Modificar a Classe Cliente Adicione um novo atributo à classe Cliente chamado 'email'. Crie um método mostrarDados() que exiba o nome e o e-mail do cliente.​
+
+​
+
+ 3. Carrinho com Quantidade de Produtos Modifique a classe Carrinho para armazenar a quantidade de cada produto. Crie uma forma de calcular o total considerando a quantidade de cada item. ​
+
+​
+
+4. Listagem do Carrinho Adicione um método chamado mostrarResumo() que exibe todos os produtos do carrinho com seus nomes, preços e a quantidade, além do valor total da compra. 
+
+5. Desconto em Produtos​
+
+ Crie um método aplicarDesconto(double percentual) na classe Produto. Ele deve diminuir o preço do produto pelo percentual passado. Teste aplicando um desconto de 10% a um produto.​
+
+​
+
+6. Simulação de Compra ​
+
+Monte um programa que: - Crie um cliente - Adicione 3 produtos ao carrinho - Exiba os itens, aplique desconto em um produto - Mostre o total antes e depois do desconto ​
+
+​
+
+7. Desafio (opcional)​
+
+ Implemente uma opção para remover um produto do carrinho pelo nome. Dica: use um loop para procurar o produto na lista e remova com .remove()​
+
+
+
+​

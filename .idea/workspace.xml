@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88f07398-221d-4f13-b291-da540c689d37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/att1/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/att2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/att3/Carrinho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Atividade1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Atividade2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Atividade3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Atividade4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Atividade5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Atividade6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1/Desafio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista1_1/Atividade7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista2/Atividade7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Atividades_Agatha_Lista3/Atividade7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula11/classeMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula11/classeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula11/tipo_dados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula33/lacoFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula33/lacoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula33/lacoWhile2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Aula33/switchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Desafios/DesafioTryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Desafios/desafio_arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Prova_Agatha/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Prova_Agatha/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Prova_Agatha/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Prova_Agatha/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Prova_Agatha/Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Prova_Agatha/Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/TryCatch/Throw_New.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/TryCatch/TryCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryCatch/Throw_New.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryCatch/TryCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dados/booleans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dados/classeMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dados/classeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dados/primeira_aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dados/tipo_dados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/DesafioTryCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafios/desafio_arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos/lacoFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos/lacoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos/lacoWhile2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos/switchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Atividade4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Atividade5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Atividade6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Desafio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista2/Atividade7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista3/Atividade7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista4/Atividade7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="30HvsEJ5E4mAb1dktaWVkHwZAbd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Cliente.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Produto.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88f07398-221d-4f13-b291-da540c689d37" name="Changes" comment="" />
+      <created>1753297518870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753297518870</updated>
+    </task>
+    <servers />
+  </component>
+</project>
