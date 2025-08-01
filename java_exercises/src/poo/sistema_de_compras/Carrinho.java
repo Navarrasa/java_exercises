@@ -29,6 +29,21 @@ public class Carrinho {
         }
     }
 
+    public void deletarProduto() {
+
+        if (itens.isEmpty()) {
+            System.out.println("Carrinho está vazio.");
+            return;
+        }
+
+        System.out.println("Digite o nome do produto que deseja remover:");
+        for (ItemCarrinho item : itens) {
+            System.out.println("- " + item.getProduto().getNome());
+        }
+        String produtoNome = System.console().readLine();
+        itens.removeIf(item -> item.getProduto().equals(produtoNome));
+    }
+
     public void mostrarCarrinho() {
         System.out.println("Itens no carrinho:");
         for (ItemCarrinho item : itens) {

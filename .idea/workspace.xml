@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88f07398-221d-4f13-b291-da540c689d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Carrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/ItemCarrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_exercises-main.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/att1/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/att2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/att3/Carrinho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/poo/att1/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/poo/att2/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Carrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Carrinho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Carrinho.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Carrinho.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +42,14 @@
     "Application.Main.executor": "Run",
     "Application.Produto.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">

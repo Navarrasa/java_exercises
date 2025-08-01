@@ -36,13 +36,14 @@ public class Main {
             System.out.println("1. Maçã Fresca");
             System.out.println("2. Banana");
             System.out.println("3. Melancia");
-            System.out.println("4. Mostrar Carrinho");
-            System.out.println("5. Finalizar Compra");
+            System.out.println("4. Deletar Produto");
+            System.out.println("5. Mostrar Carrinho");
+            System.out.println("6. Sair");
             System.out.print("Digite o número da opção: ");
 
             int user_opcao = scanner.nextInt();
-            if (user_opcao == 5) break;
-            if (user_opcao == 4) {
+            if (user_opcao == 6) break;
+            if (user_opcao == 5) {
                 carrinho.mostrarCarrinho();
                 continue;
             }
@@ -54,6 +55,7 @@ public class Main {
                 case 1 -> carrinho.adicionarProduto(maca, quantidade);
                 case 2 -> carrinho.adicionarProduto(banana, quantidade);
                 case 3 -> carrinho.adicionarProduto(melancia, quantidade);
+                case 4 -> carrinho.deletarProduto();
                 default -> System.out.println("Opção inválida.");
             }
         }
