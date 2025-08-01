@@ -53,12 +53,12 @@ public class Produto {
 
     }
 
-    public static void main(String[] args) {
-
-        criarProdutos("Banana",30.0, 10.0);
-        criarProdutos("Maça",20.0, 10.0);
-        criarProdutos("Pêra",10.0, 20.0);
-        listarProdutos();
-    }
+//    public static void main(String[] args) {
+//
+//        criarProdutos("Banana",30.0, 10.0);
+//        criarProdutos("Maça",20.0, 10.0);
+//        criarProdutos("Pêra",10.0, 20.0);
+//        listarProdutos();
+//    }
 
 }

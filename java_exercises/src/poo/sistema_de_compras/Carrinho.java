@@ -20,17 +20,19 @@ public class Carrinho {
 
     public void mostrarResumo() {
         for (ItemCarrinho item : itens) {
-            System.out.printf("%s - R$ %.2f x %dkg = R$ %.2f%n",
+            System.out.printf("%s - R$ %.2f x %dkg = R$ %.2f%n | Com desconto: R$ %.2f%n",
                     item.getProduto().getNome(),
                     item.getProduto().getPreco(),
                     item.getQuantidade(),
-                    item.getSubtotal());
+                    item.getSubtotal(),
+                    item.getTotalComDesconto());
         }
     }
 
     public void mostrarCarrinho() {
+        System.out.println("Itens no carrinho:");
         for (ItemCarrinho item : itens) {
-            System.out.printf("Produtos adicionados ao carrinho até o momento:",
+            System.out.printf("%s - R$ %.2f x %dkg = R$ %.2f%n",
                     item.getProduto().getNome(),
                     item.getProduto().getPreco(),
                     item.getQuantidade(),

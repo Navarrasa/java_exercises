@@ -16,15 +16,16 @@ public class Cliente {
     }
 
     // Método para mostrar os dados de um cliente
-    public static void mostrarDados(Cliente cliente) {
+    public void mostrarDados(Cliente cliente) {
         System.out.println("Exibindo Dados do Cliente:");
         System.out.println("E-Mail: " + cliente.email);
         System.out.println("Nome: " + cliente.name);
     }
 
-    public static void main(String[] args) {
-        Cliente cliente = Cliente.criarCliente("maria@email.com", "Maria");
-        Cliente.mostrarDados(cliente);
-    }
+//    criando clientes de forma estática
+//    public static void main(String[] args) {
+//        Cliente cliente = Cliente.criarCliente("maria@email.com", "Maria");
+//        Cliente.mostrarDados(cliente);
+//    }
 
 }

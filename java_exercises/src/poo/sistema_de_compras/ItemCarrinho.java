@@ -20,4 +20,12 @@ public class ItemCarrinho {
     public double getSubtotal() {
         return produto.getPreco() * quantidade;
     }
+
+    public double getDesconto() {
+        return produto.getPreco() * produto.getDesconto() / 100;
+    }
+
+    public double getTotalComDesconto() {
+        return getSubtotal() - getDesconto();
+    }
 }
