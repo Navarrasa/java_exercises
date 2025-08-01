@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88f07398-221d-4f13-b291-da540c689d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_biblioteca_pessoal/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_biblioteca_pessoal/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_biblioteca_pessoal/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_biblioteca_pessoal/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_biblioteca_pessoal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot 2025-07-31 171434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot 2025-07-31 171448.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot 2025-07-31 171459.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot 2025-07-31 171507.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshot 2025-07-31 171516.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Carrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Carrinho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/ItemCarrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/ItemCarrinho.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_exercises/src/poo/sistema_de_compras/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Carrinho.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Carrinho.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_exercises/poo/sistema_de_compras/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cliente.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Produto.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Produto.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="poo.att4" />
